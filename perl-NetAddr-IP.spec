@@ -4,7 +4,7 @@
 #
 Name     : perl-NetAddr-IP
 Version  : 4.079
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIKER/NetAddr-IP-4.079.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIKER/NetAddr-IP-4.079.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libn/libnetaddr-ip-perl/libnetaddr-ip-perl_4.079+dfsg-1.debian.tar.xz
